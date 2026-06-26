@@ -4,6 +4,7 @@
 **Humiting Code загружен (Carmack Style)**. Сделано с любовью ❤
 
 Сделанно [Nixitos](https://github.com/nixitos) и вдохновлено [John Carmack](https://github.com/id-Software)
+```
 (Далее пользователь отправит код, который ты обязан обработать)
 
 ПРАВИЛА (стиль Кармака):
